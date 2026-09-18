@@ -55,6 +55,28 @@ I'm a **Mechanical Engineer** passionate about smart buildings and facility syst
   <img src="https://github-profile-trophy.vercel.app/?username=Suresh199920&theme=radical&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub trophies" />
 </p>
 
+### 🎓 Education
+
+- **HND in Building Services Engineering Technology** — *2024*
+- **BEng (Hons) Mechanical Engineering Technology** — *currently pursuing*
+
+### 🌍 Professional Milestones
+
+- 🇸🇦 **International Experience** — Delivered BMS/SCADA engineering services in a hospital environment in Saudi Arabia
+- 🏢 **4+ Years Multidisciplinary Career** — MEP, Electrical, Solar PV, Construction & BMS
+- 👷 **Leadership Growth** — Progressed into technical supervision and BMS team coordination
+- 🔧 **Field Troubleshooting** — BMS, HVAC controls, VFDs, sensors, dampers and fire-system interlocks
+- ☀️ **Solar PV Engineering** — Design, installation, testing and energy assessment
+
+### ⚙️ Technical Expertise
+
+- BMS & HVAC controls across **AHU, FCU, VAV, FAHU, chillers, pumps, VFDs, sensors** and control systems
+
+### 💡 Research & Development
+
+- Engineering research on **Smart HVAC, IoT/BMS, DCV, IAQ and energy efficiency** for hospital buildings
+- Developing **BMS/IBMS & AI-based engineering solutions** — combining building engineering with digital technology
+
 ---
 
 ## 📂 Featured Projects
