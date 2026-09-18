@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=160&section=header&text=K.%20Suresh%20Kumar&fontSize=45&fontAlignY=32&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=160&section=header&text=K.Sureshkumar&fontSize=45&fontAlignY=32&animation=fadeIn" alt="Header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=600&color=36BCF7&center=true&vCenter=true&width=620&lines=Hi+%F0%9F%91%8B%2C+I'm+K.+SureshKumar;MEP+Engineer+%7C+HVAC+%7C+BMS;Facility+Management+%26+Energy+Optimization;Welcome+to+my+GitHub+profile+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=600&color=36BCF7&center=true&vCenter=true&width=620&lines=Hi+%F0%9F%91%8B%2C+I'm+K.Sureshkumar;MEP+Engineer+%7C+HVAC+%7C+BMS;Facility+Management+%26+Energy+Optimization;Welcome+to+my+GitHub+profile+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -39,6 +39,10 @@ I'm a **Mechanical Engineer** passionate about smart buildings and facility syst
   <img src="https://img.shields.io/badge/AutoCAD-D3002F?style=for-the-badge&logo=autodesk&logoColor=white" />
   <img src="https://img.shields.io/badge/Revit-MEP-0696D7?style=for-the-badge&logo=revit&logoColor=white" />
   <img src="https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/SolidWorks-CD202C?style=for-the-badge&logo=solidworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Schneider_EcoStruxure-BMS-299617?style=for-the-badge&logo=schneiderelectric&logoColor=white" />
+  <img src="https://img.shields.io/badge/TIA_Portal_V20-009999?style=for-the-badge&logo=siemens&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
